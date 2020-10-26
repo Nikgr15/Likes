@@ -1,7 +1,6 @@
 package ru.netology
 
 import com.ibm.icu.text.PluralRules
-import sun.text.resources.PluralRules
 import java.util.*
 
 fun main() {
